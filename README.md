@@ -1,1 +1,1 @@
-# Vaje Raèunalniškega praktikuma iz Excela in Wolfram Mathematice.
+ï»¿# Vaje RaÄunalniÅ¡kega praktikuma iz Excela in Wolfram Mathematice.
