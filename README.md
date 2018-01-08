@@ -1,1 +1,1 @@
-# bookish-octo-adventure
+# Vaje Raèunalniškega praktikuma iz Excela in Wolfram Mathematice.
